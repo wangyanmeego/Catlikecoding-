@@ -15,7 +15,7 @@
 
 # 关于游戏对象管理
 1. 持久化对象
-2. 对象的变体
+2. [对象的变体](https://github.com/wangyanmeego/Catlikecoding-/blob/master/2.2-Object%20Managerment/02-%E5%8F%98%E5%8C%96%E7%9A%84%E5%AF%B9%E8%B1%A1.md)
 3. 重用对象
 4. 游戏多场景管理
 5. 用脚本生成一个游戏区域场景
