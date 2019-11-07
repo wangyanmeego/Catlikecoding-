@@ -66,7 +66,7 @@
 
 # 渲染
 1. 矩阵
-2. 着色器基础
+2. [着色器基础](https://github.com/wangyanmeego/Catlikecoding-/blob/master/Rendering/02-%E7%9D%80%E8%89%B2%E5%99%A8%E5%9F%BA%E7%A1%80.md)
 3. 合并纹理
 4. 第一个光照
 5. 多光照
