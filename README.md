@@ -67,8 +67,8 @@
 # 渲染
 1. 矩阵
 2. [着色器基础](https://github.com/wangyanmeego/Catlikecoding-/blob/master/Rendering/02-%E7%9D%80%E8%89%B2%E5%99%A8%E5%9F%BA%E7%A1%80.md)
-3. 合并纹理
-4. 第一个光照
+3. [合并纹理](https://github.com/wangyanmeego/Catlikecoding-/blob/master/Rendering/03-%E5%90%88%E5%B9%B6%E7%BA%B9%E7%90%86.md)
+4. [第一个光照](https://github.com/wangyanmeego/Catlikecoding-/blob/master/Rendering/04-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%81%AF%E5%85%89.md)
 5. 多光照
 6. 反射
 7. 复杂材质
