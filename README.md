@@ -17,7 +17,7 @@
 1. [持久化对象](https://github.com/wangyanmeego/Catlikecoding-/blob/master/2.2-Object%20Managerment/01-%E6%8C%81%E4%B9%85%E5%8C%96%E5%AF%B9%E8%B1%A1.md)
 2. [对象的变体](https://github.com/wangyanmeego/Catlikecoding-/blob/master/2.2-Object%20Managerment/02-%E5%8F%98%E5%8C%96%E7%9A%84%E5%AF%B9%E8%B1%A1.md)
 3. [重用对象](https://github.com/wangyanmeego/Catlikecoding-/blob/master/2.2-Object%20Managerment/03-Reusing%20Objects(%E9%87%8D%E7%94%A8%E5%AF%B9%E8%B1%A1).md)
-4. 游戏多场景管理
+4. [游戏多场景管理](https://github.com/wangyanmeego/Catlikecoding-/blob/master/2.2-Object%20Managerment/04-Multiple%20Scenes(%E5%A4%9A%E5%9C%BA%E6%99%AF%E7%AE%A1%E7%90%86).md)
 5. 用脚本生成一个游戏区域场景
 6. 更多的游戏状态
 7. 配置游戏形状体
